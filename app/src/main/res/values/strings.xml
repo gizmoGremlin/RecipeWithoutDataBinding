@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeWithoutDataBinding</string>
+    <string name="retry">Retry</string>
+    <string name="Error">Error occured during load</string>
+</resources>
